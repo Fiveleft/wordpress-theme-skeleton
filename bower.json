@@ -1,0 +1,20 @@
+{
+  "name": "{theme_name}",
+  "homepage": "{repository_url}",
+  "authors": [
+    "{author_name} <{author_email}>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.9.0",
+    "requirejs": "~2.1.5",
+    "underscore": "~1.8.3",
+    "modernizr": "2.8.2"
+  },
+  "overrides": {
+    "modernizr": {
+      "main": "./modernizr.js"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "info" : {
+    "author_name" : "",
+    "author_email" : "",
+    "company_name" : "",
+    "company_email" : "",
+    "repository_url" : "",
+    "theme_name" : "",
+    "theme_slug" : ""
+  },
+  "env" : {
+    "options" : {
+      "requirejs" : {
+        "baseUrl" : "js"
+      }
+    },
+    "dev" : {
+      "url" : "http://sewellphotography.dev/"
+    },
+    "stage" : {
+      "url" : "[digital ocean droplet IP address]"
+    },
+    "production" : {
+      "url" : "http://sewellphotography.com/"
+    }
+  }
+}
