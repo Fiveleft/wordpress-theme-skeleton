@@ -15,13 +15,22 @@
       }
     },
     "dev" : {
-      "url" : "http://sewellphotography.dev/"
+      "url" : "[local dev url or IP address]",
+      "requirejs" : {
+        "baseUrl" : "js"
+      }
     },
     "stage" : {
-      "url" : "[digital ocean droplet IP address]"
+      "url" : "[staging url or IP address]",
+      "requirejs" : {
+        "baseUrl" : "js"
+      }
     },
     "production" : {
-      "url" : "http://sewellphotography.com/"
+      "url" : "[production url or IP address]",
+      "requirejs" : {
+        "baseUrl" : "js"
+      }
     }
   }
 }
