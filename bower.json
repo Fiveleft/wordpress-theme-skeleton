@@ -1,8 +1,8 @@
 {
-  "name": "Dunn Building",
-  "homepage": "https://github.com/Fiveleft/dunnbuilding-theme.git",
+  "name": "{theme_name}",
+  "homepage": "{repository_url}",
   "authors": [
-    "Charles Krueger <ck@fiveleft.com>"
+    "{author_name} <{author_email}>"
   ],
   "license": "MIT",
   "private": true,
