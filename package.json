@@ -1,16 +1,16 @@
 {
-  "name": "{theme_slug}-dev",
+  "name": "dunnbuilding-dev",
   "version": "0.0.2",
-  "description": "{theme_name} Development Theme for Wordpress",
+  "description": "Dunn Building Development Theme for Wordpress",
   "scripts": {
     "test": ""
   },
   "keywords": [
-    "{company_name}",
+    "Dunn Building",
     "Wordpress",
     "Template"
   ],
-  "author": "{author_name}",
+  "author": "Charles Krueger",
   "license": "BSD",
   "devDependencies": {
     "bower": "~0.8.6",
